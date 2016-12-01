@@ -1,0 +1,14 @@
+@mixin firstColumnSizing() {
+    margin: 0 auto;
+    width: 900px;
+}
+
+@mixin secondColumnSizing() {
+    margin: 0 auto;
+    width: 700px;
+}
+
+@mixin thirdColumnSizing() {
+    margin: 0 auto;
+    width: 1400px;
+}
